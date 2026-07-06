@@ -1,4 +1,4 @@
-<img src="./docs/logo.svg" alt="SoroWill" width="64" height="64" />
+<img src="../docs/logo.svg" alt="SoroWill" width="64" height="64" />
 
 # SoroWill 🔐
 
